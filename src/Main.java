@@ -57,7 +57,7 @@ public class Main {
         }
         System.out.println("================================================");
         System.out.println("");
-
+        //TEST
 
         Member m1 = new Member("Morten","121200-1237",false);
         Member m2 = new Member("Martin","160999-1899",true);
